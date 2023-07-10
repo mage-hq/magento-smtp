@@ -1,5 +1,5 @@
 # magento-smtp
-Magento 2 SMTP extension free enables sending Emails in Magento 2, minimize the chance to get into spam with the reliable SMTP server configuration.
+To use SMTP in Magento 2, you need to install and enable an SMTP extension that allows you to configure your email settings and connect to your preferred SMTP server
 
 Please go to https://magehq.com/magento-2-smtp.html download free extension
 
